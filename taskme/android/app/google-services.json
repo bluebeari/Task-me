@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181308063027",
+    "project_id": "taskme-proj",
+    "storage_bucket": "taskme-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181308063027:android:15c7ff529ef62251cfd246",
+        "android_client_info": {
+          "package_name": "com.cpp.taskme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181308063027-tl4ql2mop4tt0g3f8bs5b3aq323p2r5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nnaRaGv6HQH7ftmCNi1o0vEhdunpnbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181308063027-tl4ql2mop4tt0g3f8bs5b3aq323p2r5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
